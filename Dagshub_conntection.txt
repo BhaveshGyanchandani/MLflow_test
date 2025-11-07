@@ -1,0 +1,11 @@
+1) go to dagshub
+2) login
+3)Track experiments
+4)create a new git repo
+
+5) go to dagshub 
+6) click on create-> create new repo (in dagshub)->connect a repository->github->authorize
+7)we can select the new one or all
+8)again click on MLoops_MLflow repo we wamt to connect to in dagshub -> connnect repo
+9)we will geta  dagshub dashboard
+10) copy the URI in dagshub ( its in bottom of dagshub ...https://dagshub.com/api/v1/repo-buckets/s3/BhaveshGyanchandani)
